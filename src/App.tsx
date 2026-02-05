@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ShoppingBag, Zap, Smartphone, CreditCard, ArrowRight, Check, Menu, X, Eye, Palette, MessageCircle } from 'lucide-react';
+import { ShoppingBag, Zap, Smartphone, CreditCard, ArrowRight, Check, Menu, X, Palette, MessageCircle } from 'lucide-react';
 
 // Sample stores
 const stores = [
